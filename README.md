@@ -32,9 +32,9 @@ cd PRODIGY_ML_TASK01
 python house_price_prediction.py
 ```
 ## This script loads the training dataset, selects relevant columns, checks for missing values, trains a linear regression model, and evaluates its performance. Finally, it plots the actual vs. predicted house prices.
-## Proofs 
-![House Price Prediction](https://cdn.discordapp.com/attachments/1165689177665450097/1248596323297656882/Figure_1.png?ex=66643d71&is=6662ebf1&hm=c6091f343aede9836d98891c0beec69f9f92620b73683c0c8f1db1fec7049453&)
-
+## Outputs 
+![House Price Prediction figure ](https://cdn.discordapp.com/attachments/1165689177665450097/1248596323297656882/Figure_1.png?ex=66643d71&is=6662ebf1&hm=c6091f343aede9836d98891c0beec69f9f92620b73683c0c8f1db1fec7049453&)
+![House Price Prediction Window](https://media.discordapp.net/attachments/1165689177665450097/1248597104280993843/image.png?ex=66643e2b&is=6662ecab&hm=0874bb1ba0d4d855a9c7201ccbf672b8a6181680cd12c3a66e642f3c0d784d18&=&format=webp&quality=lossless&width=735&height=630)
 - Results
 The mean squared error (MSE) and R-squared (R2) values are calculated to assess the model's performance.
 
