@@ -24,11 +24,12 @@ git clone https://github.com/AyushGorlawar/PRODIGY_ML_TASK01```
 
 -Navigate to the repository directory:
 ```
-cd PRODIGY_ML_TASK01```
+cd PRODIGY_ML_TASK01
+```
 
 - Run the house_price_prediction.py script:
 ```
-python house_price_prediction.py```
+python house_price_prediction.py
 
 ## This script loads the training dataset, selects relevant columns, checks for missing values, trains a linear regression model, and evaluates its performance. Finally, it plots the actual vs. predicted house prices.
 
