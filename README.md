@@ -36,9 +36,9 @@ python house_price_prediction.py
 - Results
 The mean squared error (MSE) and R-squared (R2) values are calculated to assess the model's performance.
 
-- Author
-# Ayush Gorlawar
+# - Author
+## Ayush Gorlawar
 
-- License
+# - License
  
-# This project is licensed under the [MIT License.](<https://github.com/AyushGorlawar/PRODIGY_ML_TASK01/blob/main/LICENSE>)
+## This project is licensed under the [MIT License.](<https://github.com/AyushGorlawar/PRODIGY_ML_TASK01/blob/main/LICENSE>)
