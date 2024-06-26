@@ -33,8 +33,8 @@ python house_price_prediction.py
 ```
 ## This script loads the training dataset, selects relevant columns, checks for missing values, trains a linear regression model, and evaluates its performance. Finally, it plots the actual vs. predicted house prices.
 ## Outputs 
-![House Price Prediction figure ](https://cdn.discordapp.com/attachments/1165689177665450097/1248596323297656882/Figure_1.png?ex=66643d71&is=6662ebf1&hm=c6091f343aede9836d98891c0beec69f9f92620b73683c0c8f1db1fec7049453&)
-![House Price Prediction Window](https://media.discordapp.net/attachments/1165689177665450097/1248597104280993843/image.png?ex=66643e2b&is=6662ecab&hm=0874bb1ba0d4d855a9c7201ccbf672b8a6181680cd12c3a66e642f3c0d784d18&=&format=webp&quality=lossless&width=735&height=630)
+![House Price Prediction figure ](https://media.discordapp.net/attachments/1165689177665450097/1248596323297656882/Figure_1.png?ex=667d49f1&is=667bf871&hm=133028e9899416aa0a399fa3dc899ceaec3dc7d4fcbd2eddd3f4e9e6adef4af9&=&format=webp&quality=lossless&width=800&height=600)
+![House Price Prediction Window](https://media.discordapp.net/attachments/1165689177665450097/1248597104280993843/image.png?ex=667d4aab&is=667bf92b&hm=3505f0e9dbe52cabf2eb81af70914af45f19c8139fdc14ce46c2702d8fc55bbe&=&format=webp&quality=lossless&width=511&height=437)
 - Results
 The mean squared error (MSE) and R-squared (R2) values are calculated to assess the model's performance.
 
